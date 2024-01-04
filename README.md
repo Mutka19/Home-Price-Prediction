@@ -1,1 +1,1 @@
-# final-project-cs4347
+# Home Price Prediction
